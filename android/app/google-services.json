@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639542171690",
+    "project_id": "konsultasi-b51ca",
+    "storage_bucket": "konsultasi-b51ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639542171690:android:feeb157ab8ed1478764b53",
+        "android_client_info": {
+          "package_name": "com.example.project_konsultasi_gus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJBfQda5zWB1SsszesWy63rFEQokwqTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
